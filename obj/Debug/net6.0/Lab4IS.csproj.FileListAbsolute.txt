@@ -1,0 +1,14 @@
+C:\Users\Sh6abrA\source\repos\Lab4IS\Lab4IS\bin\Debug\net6.0\Lab4IS.exe
+C:\Users\Sh6abrA\source\repos\Lab4IS\Lab4IS\bin\Debug\net6.0\Lab4IS.deps.json
+C:\Users\Sh6abrA\source\repos\Lab4IS\Lab4IS\bin\Debug\net6.0\Lab4IS.runtimeconfig.json
+C:\Users\Sh6abrA\source\repos\Lab4IS\Lab4IS\bin\Debug\net6.0\Lab4IS.dll
+C:\Users\Sh6abrA\source\repos\Lab4IS\Lab4IS\bin\Debug\net6.0\Lab4IS.pdb
+C:\Users\Sh6abrA\source\repos\Lab4IS\Lab4IS\obj\Debug\net6.0\Lab4IS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sh6abrA\source\repos\Lab4IS\Lab4IS\obj\Debug\net6.0\Lab4IS.AssemblyInfoInputs.cache
+C:\Users\Sh6abrA\source\repos\Lab4IS\Lab4IS\obj\Debug\net6.0\Lab4IS.AssemblyInfo.cs
+C:\Users\Sh6abrA\source\repos\Lab4IS\Lab4IS\obj\Debug\net6.0\Lab4IS.csproj.CoreCompileInputs.cache
+C:\Users\Sh6abrA\source\repos\Lab4IS\Lab4IS\obj\Debug\net6.0\Lab4IS.dll
+C:\Users\Sh6abrA\source\repos\Lab4IS\Lab4IS\obj\Debug\net6.0\refint\Lab4IS.dll
+C:\Users\Sh6abrA\source\repos\Lab4IS\Lab4IS\obj\Debug\net6.0\Lab4IS.pdb
+C:\Users\Sh6abrA\source\repos\Lab4IS\Lab4IS\obj\Debug\net6.0\Lab4IS.genruntimeconfig.cache
+C:\Users\Sh6abrA\source\repos\Lab4IS\Lab4IS\obj\Debug\net6.0\ref\Lab4IS.dll
